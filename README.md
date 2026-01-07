@@ -34,8 +34,8 @@ The main form includes fields to record the following student details:
 
 ## Screenshots
 ![Student Information Entry Form](Screenshot%20(2).png)
+![Student Information Entry Form](Screenshot%20(2).png)
  *The main form page where user can input student details*
-![Student Information Entry Form](screenshot%20(1).pg)
 
 ---
 
