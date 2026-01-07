@@ -31,7 +31,7 @@ The main form includes fields to record the following student details:
 3.  Import the included SQL script to create the required database and tables
 4.  Access the system via your browser using the URL: localhost/student_info_system/index.php
 5.  Fill out the form to add new student records to the system
-
+6.[click here to open the student information form](http://localhost/student_info_system/index.php)
 ## Screenshots
 ![Student Information Entry Form](Screenshot%20(2).png)
 ![Student Information Entry Form](Screenshot%20(1).png)
