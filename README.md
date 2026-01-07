@@ -1,6 +1,6 @@
 Submitted by: 
 
-Jay-bee jamolin	- BSCS 2B   # Student Information System
+Jay-bee jamolin	- BSCS 2B    # Student Information System
 A web-based application for managing and recording student details efficiently.
 
 
@@ -34,9 +34,9 @@ The main form includes fields to record the following student details:
 
 ## Screenshots
 ![Student Information Entry Form]("C:\Users\JB JAMOLIN\OneDrive\Pictures\Screenshots\Screenshot (2).png")
-*The main form page where user can input student details*
-
+ *The main form page where user can input student details*
+![Student Information Entry Form]("C:\Users\JB JAMOLIN\OneDrive\Pictures\Screenshots\Screenshot (1).png")
 
 ---
-This project is submitted as part of academic requirements.
+
 
