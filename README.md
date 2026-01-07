@@ -33,9 +33,9 @@ The main form includes fields to record the following student details:
 5.  Fill out the form to add new student records to the system
 
 ## Screenshots
-![Student Information Entry Form](Screenshot%20(1).png)
+![Student Information Entry Form](Screenshot%20(2).png)
  *The main form page where user can input student details*
-![Student Information Entry Form](
+![Student Information Entry Form](screenshot%20(1).pg)
 
 ---
 
